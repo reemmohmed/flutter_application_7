@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_7/api_service.dart';
 import 'package:flutter_application_7/post_detail_screen.dart';
 import '../models/post.dart';
-import '../services/api_service.dart';
 
 class PostsScreen extends StatelessWidget {
   const PostsScreen({Key? key}) : super(key: key);
